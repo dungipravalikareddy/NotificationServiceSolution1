@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\WCFService</_PublishTargetUrl>
+    <History>True|2024-10-30T10:39:33.4180379Z||;False|2024-10-30T16:05:26.2652059+05:30||;True|2024-10-30T15:09:27.2597067+05:30||;True|2024-10-30T15:08:30.0747346+05:30||;True|2024-10-30T15:04:16.4856978+05:30||;True|2024-10-30T15:01:18.1815168+05:30||;False|2024-10-30T14:59:06.2095997+05:30||;False|2024-10-30T14:57:42.1014583+05:30||;False|2024-10-30T14:56:25.9636218+05:30||;False|2024-10-30T14:56:01.7562474+05:30||;True|2024-10-29T17:29:20.1332644+05:30||;True|2024-10-29T17:26:11.7941129+05:30||;True|2024-10-29T17:25:57.6733474+05:30||;False|2024-10-29T17:24:57.7248370+05:30||;False|2024-10-29T17:24:42.5504096+05:30||;True|2024-10-29T17:11:00.5957083+05:30||;True|2024-10-29T17:04:05.5527792+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EmployeeService.dll">
+      <publishTime>10/30/2024 16:09:32</publishTime>
+    </File>
+    <File Include="bin/EmployeeService.Implementation.dll">
+      <publishTime>10/30/2024 16:09:32</publishTime>
+    </File>
+    <File Include="bin/EmployeeService.Implementation.dll.config">
+      <publishTime>10/29/2024 14:42:47</publishTime>
+    </File>
+    <File Include="bin/EmployeeService.Implementation.pdb">
+      <publishTime>10/30/2024 16:09:32</publishTime>
+    </File>
+    <File Include="bin/EmployeeService.Models.dll">
+      <publishTime>10/30/2024 16:05:25</publishTime>
+    </File>
+    <File Include="bin/EmployeeService.Models.pdb">
+      <publishTime>10/30/2024 16:05:25</publishTime>
+    </File>
+    <File Include="bin/EmployeeService.pdb">
+      <publishTime>10/30/2024 16:09:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/31/2023 20:30:18</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>09/05/2024 18:25:22</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>08/05/2022 09:01:02</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 18:59:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 05:10:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/31/2023 20:30:28</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>09/17/2024 04:45:02</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Channels.dll">
+      <publishTime>10/31/2023 20:39:50</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 18:59:52</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>10/29/2024 12:41:47</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/30/2024 15:08:30</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

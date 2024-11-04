@@ -1,0 +1,6 @@
+C:\Users\PravalikaDungi\source\repos\EmployeeServiceSolution\EmployeeService.Models\bin\Debug\EmployeeService.Models.dll
+C:\Users\PravalikaDungi\source\repos\EmployeeServiceSolution\EmployeeService.Models\bin\Debug\EmployeeService.Models.pdb
+C:\Users\PravalikaDungi\source\repos\EmployeeServiceSolution\EmployeeService.Models\obj\Debug\EmployeeService.Models.csproj.AssemblyReference.cache
+C:\Users\PravalikaDungi\source\repos\EmployeeServiceSolution\EmployeeService.Models\obj\Debug\EmployeeService.Models.csproj.CoreCompileInputs.cache
+C:\Users\PravalikaDungi\source\repos\EmployeeServiceSolution\EmployeeService.Models\obj\Debug\EmployeeService.Models.dll
+C:\Users\PravalikaDungi\source\repos\EmployeeServiceSolution\EmployeeService.Models\obj\Debug\EmployeeService.Models.pdb
